@@ -6,8 +6,4 @@ An aspiring cybersecurity fanatic, I own a fervent passion for protecting digita
 
 ---
 
-
-
-![windows_concepts_Badge](https://github.com/EserIgnacio/EserIgnacio/assets/113301382/2ad38585-8a64-40fd-9cba-84513af707eb)
-
-<img src="https://github.com/EserIgnacio/EserIgnacio/assets/113301382/2ad38585-8a64-40fd-9cba-84513af707eb" alt="windows_concepts_Badge" width="300" height="200">
+<img src="https://github.com/EserIgnacio/EserIgnacio/assets/113301382/2ad38585-8a64-40fd-9cba-84513af707eb" alt="windows_concepts_Badge" width="100" height="100">
