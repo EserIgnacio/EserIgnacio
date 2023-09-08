@@ -17,5 +17,5 @@ An aspiring cybersecurity fanatic, I own a fervent passion for protecting digita
 
 <img src="https://github.com/EserIgnacio/EserIgnacio/assets/113301382/9a33991f-879b-4148-a1cc-cb710c23def7" alt="windows_concepts_Badge" width="150" height="150">
 
-<img src="https://api.immersivelabs.online/share/achievements/67228328211830c8c0ba5262c5b4cfe7" alt="windows_concepts_Badge" width="300" height="200">
+<img <img>="https://api.immersivelabs.online/share/achievements/67228328211830c8c0ba5262c5b4cfe7" alt="windows_concepts_Badge" width="300" height="200">
 
