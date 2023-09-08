@@ -14,5 +14,3 @@ An aspiring cybersecurity fanatic, I own a fervent passion for protecting digita
 <br />
 
 #
-
- (https://github.com/EserIgnacio/EserIgnacio/assets/113301382/9a33991f-879b-4148-a1cc-cb710c23def7)
