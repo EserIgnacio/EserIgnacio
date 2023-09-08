@@ -15,4 +15,4 @@ An aspiring cybersecurity fanatic, I own a fervent passion for protecting digita
 
 #
 
-![windows_concepts_Badge](https://github.com/EserIgnacio/EserIgnacio/assets/113301382/9a33991f-879b-4148-a1cc-cb710c23def7)
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" ![windows_concepts_Badge](https://github.com/EserIgnacio/EserIgnacio/assets/113301382/9a33991f-879b-4148-a1cc-cb710c23def7)
