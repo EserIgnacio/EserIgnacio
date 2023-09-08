@@ -17,5 +17,11 @@ An aspiring cybersecurity fanatic, I own a fervent passion for protecting digita
 ### 🏫 ImmersiveLabs Achivements
 <img src="https://github.com/EserIgnacio/EserIgnacio/assets/113301382/2ad38585-8a64-40fd-9cba-84513af707eb" alt="windows_concepts_Badge" width="100" height="100">
 <img src="https://github.com/EserIgnacio/EserIgnacio/assets/113301382/400e0d72-d42f-491a-8bf2-6784a5a322dd" alt="Linux_command_line_Badge" width="100" height="100">
+<img src="https://github.com/EserIgnacio/EserIgnacio/assets/113301382/e3feeb87-2ac6-4067-bd9d-ebd4b0c7b45d" alt="Badge" width="200" height="100">
+<img src="https://github.com/EserIgnacio/EserIgnacio/assets/113301382/16bafeb2-4008-4b36-9f47-7848a2d9daff" alt="OWASP Top 10 Badge" width="100" height="100">
+<img src="https://github.com/EserIgnacio/EserIgnacio/assets/113301382/25b34c34-6828-4f91-9f1d-ef1c3ef11c57" alt="Badge" width="100" height="100">
+<img src="https://github.com/EserIgnacio/EserIgnacio/assets/113301382/d501f5d7-a260-49c9-bc57-27d39ecbef4a" alt="Badge" width="100" height="100">
+<img src="https://github.com/EserIgnacio/EserIgnacio/assets/113301382/da0bc778-15f0-49ad-a38d-d37c8902453e" alt="Badge" width="100" height="100">
+<img src="https://github.com/EserIgnacio/EserIgnacio/assets/113301382/1b44a15d-5837-4918-9a22-61086bc734c9" alt="Badge" width="100" height="100">
 
 
